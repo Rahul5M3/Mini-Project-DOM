@@ -1,3 +1,4 @@
+// // simon game code is in last
 //// -----------------------------------------------------------Todo app code
 
 // let btn = document.querySelector('button');
